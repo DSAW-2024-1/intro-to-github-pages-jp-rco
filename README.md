@@ -13,3 +13,8 @@ Para esto es necesario que suban los cambios de su repositorio anterior a este r
 ## Sitio web Desplegado
 El taller estará finalizado una vez suban su página a internet y agregue a continuación el link:
 https://dsaw-2024-1.github.io/intro-to-github-pages-jp-rco/
+
+ <img src="./assets/images/Pagina Web Terminada para desktop.png" />
+ <img src="./assets/images/Juego de la comida css.png" />
+ <img src="./assets/images/Juego de la ranita css.png" />
+ <img src="./assets/images/Juego de la huerta css.png" />
